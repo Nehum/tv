@@ -1,0 +1,5 @@
+#EXTINF:0,.red HD
+http://192.168.0.126:6878/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e&.mp4
+#EXTINF:0,.red HD
+http://192.168.0.126:6878/ace/getstream?infohash=cd680104166a605ed27730dcaec73bf81221d540
+#EXTINF:0,.black
