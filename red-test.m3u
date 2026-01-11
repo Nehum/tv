@@ -837,3 +837,43 @@ http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-kinofranshizy", Clarity4k КиноФраншизы
 http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://ottpink.network/picons/clarity4k.png", Clarity 4K
+http://192.168.0.192:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-anime", Clarity4K Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-asia", Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-gamefilm", Clarity4K Gamefilm
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-netflix", Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-kosmomir", Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-prikluchenia", Clarity4K Приключения
+http://hls127.freeott.top:8080/Clarity4K_Priklucheniya/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-uzasy", Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-fantastik", Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-asia", Clarity4k Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-netflix", Clarity4k Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
+#EXTINF:-1 group-title="Кинозалы", Clarity4k World Music
+http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-boevik", Clarity4k Боевик
+http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-dramy", Clarity4k Драмы
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-kinofranshizy", Clarity4k КиноФраншизы
+http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
+#EXTINF:-1 group-title="Кинозалы", Clarity4k Русский сериал
+http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-semejny", Clarity4k Семейный
+http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-uzasy", Clarity4k Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-fantastik", Clarity4k Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="clarity4k-fentezy", Clarity4k Фэнтези
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
