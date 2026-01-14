@@ -625,12 +625,10 @@ https://fl1001.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid70/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/wTCBGZrw/2025-01-30-014042221.png", Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы", Иллюзион+
-acestream://cc4b12985ef1c75d786cc5fafa5d0deb960312fd
+
 #EXTINF:-1 group-title="Кинозалы", Иллюзион+
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
-#EXTINF:-1 group-title="Кинозалы", Еврокино
-acestream://cda16e6d488958942dcd9cd96284c0910dc29cce
+
 #EXTINF:-1 group-title="Кинозалы", Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", ЭХО ТВ
@@ -639,108 +637,85 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", ТВ3 HD
-acestream://3b878b202b26e2b15bf7304e21a7d5283ebf236b
+
 #EXTINF:-1 group-title="Кинозалы", ТВ3
 http://195.158.223.132:8000/TV_3
 #EXTINF:-1 group-title="Кинозалы", Техно 24
 https://vod.splay.uz/live_splay/original/Tehno_24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", НСТ
-acestream://038d0b88c99d988b0b91af57ef142f563a90d200
+
 #EXTINF:-1 group-title="Кинозалы", НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Шокирующее HD
 http://178.217.72.72/shokiruushee/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", КИНОУЖАС
-acestream://fd386c089ec9cc7d1d75ef5d59cf2199211515e7
+
 #EXTINF:-1 group-title="Кинозалы", Киноужас
 http://85.88.175.48:2020/udp/239.4.10.47:2020
 #EXTINF:-1 group-title="Кинозалы", Киносемья HD
 http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Киносемья
 https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Киносвидание HD
-acestream://f5302ed56cf6af61378b2527524398558d9cddde
+
 #EXTINF:-1 group-title="Кинозалы", Киносвидание
 https://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Киномикс HD
-acestream://3dba401ca5f2508ddfa955333e233d40d7f3572e
+
 #EXTINF:-1 group-title="Кинозалы", Киномикс
 https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинохит HD
-acestream://f1fe45c8d5f58301c74dde7acaf4db13e497b586
+
 #EXTINF:-1 group-title="Кинозалы", Кинохит
 http://94.232.127.28:8080/kinohit/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинопремьера HD
-acestream://94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6
-#EXTINF:-1 group-title="Кинозалы", КИНОСЕРИЯ HD
-acestream://f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd
+
+
 #EXTINF:-1 group-title="Кинозалы", Киносерия
 http://46.8.46.14/kinoseria/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Мужское Кино HD
-acestream://26491abeef0cc9d0646bb8de880fe73d5ca285af
-#EXTINF:-1 group-title="Кинозалы", Кинокомедия HD
-acestream://dfb83e3ff3c570ba7346641c827d89bd472a18a2
+
+dfb83e3ff3c570ba7346641c827d89bd472a18a2
 #EXTINF:-1 group-title="Кинозалы" tvg-id="kinokomedia", Кинокомедия HD
 http://46.8.46.14/kinokomedia/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Комедия
-acestream://c33dc2a170db91a6b0c8bb1f9583b008122cdf8c
+
 #EXTINF:-1 group-title="Кинозалы", Комедия
 http://178.217.72.72/Komediya/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Камеди
-acestream://69f02544ef5a6029b4ac7b34a7af5616437c64e0
+
 #EXTINF:-1 group-title="Кинозалы", Камеди HD
 http://217.25.80.16/kamedi_hd/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Мир сериала
 http://217.21.34.160:38007/mirseriala/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Сапфир
 http://185.78.112.57:8077/fox_life_hd/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинеко HD
-acestream://6c6849a17243f967d0c6f04323af9dfde161c3f2
+
 #EXTINF:-1 group-title="Кинозалы", Кинеко
 http://217.25.80.16/FOX_HD/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Дорама HD
-acestream://67cf1b59347125a57a5ea62844a6b77075a3d9dd
+
 #EXTINF:-1 group-title="Кинозалы", Дорама
 http://178.217.72.72/Dorama/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Хит HD
-acestream://3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d
+
 #EXTINF:-1 group-title="Кинозалы", ХИТ HD
 http://217.25.80.16/hit_hd/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кино ТВ HD
-acestream://aeb66589dcdbf45061b76eb52ed29ea8297e8e21
+
 #EXTINF:-1 group-title="Кинозалы", Кино ТВ HD
 http://46.8.46.14/kinotv/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Дом кино
-acestream://4403739564a9b19055786e9844ea48147b3f930b
-#EXTINF:-1 group-title="Кинозалы", Дом Кино Премиум HD
-acestream://c2877f4320f2029a59f2121525280c539fb1b9e9
+
+
 #EXTINF:-1 group-title="Кинозалы", Дом Кино Премиум HD
 http://217.25.80.16/Dom_Kino_Premium_HD/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", FAN HD
-acestream://75860e73e6149fed0f781f08e7f93b19c9dc00d2
+
 #EXTINF:-1 group-title="Кинозалы", Fan
 http://217.25.80.16/fan_hd/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Наше Мужское HD
-acestream://646e1bd5cccfef3d0926eee34eb3fd7e01430507
+
 #EXTINF:-1 group-title="Кинозалы", Наше Мужское HD
 http://50.7.28.226/8740/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Наш кинопоказ HD
 http://178.217.72.72/nashkinopokazhd/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Наше Новое Кино
-acestream://ae38625cca3cae6873509ba05b99aa1af5ec0f4e
+
 #EXTINF:-1 group-title="Кинозалы", Наше новое кино
 http://178.217.72.72/Nashe_Novoe_Kino/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Наше любимое HD
-acestream://c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1
-#EXTINF:-1 group-title="Кинозалы", Наше крутое HD
-acestream://4f40b12ad32618adf3262143db8cc80ae686a5f0
+
+
 #EXTINF:-1 group-title="Кинозалы", Время
 http://31.148.48.15/Vremya/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Время
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Vremya
-#EXTINF:-1 group-title="Кинозалы", Арсенал HD
-acestream://7cf9a5935adc526cab260a6a561af7d6fe34f640
+
 #EXTINF:-1 group-title="Кинозалы", Арсенал HD
 http://217.25.80.16/arsenal_hd/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Кино 1 International
@@ -749,66 +724,52 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Про Любовь HD
 http://217.25.80.16/pro_lubov_hd/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Русский иллюзион
-acestream://9f476ff8038d54604d17b15e25e57a041372cde1
-#EXTINF:-1 group-title="Кинозалы", Русский детектив
-acestream://0028b93215ac25fb20fac7938a5697cf835a4a36
+
+
 #EXTINF:-1 group-title="Кинозалы", Русский детектив
 http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Русский Бестселлер
-acestream://3b35986d4455f25cc8a28d666bb2ca8b638986de
+
 #EXTINF:-1 group-title="Кинозалы", Русский Бестселлер
 http://46.8.46.14/rubestseller/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Русский роман HD
 http://iptv46.mcx-ix.ru:8077/russki_roman_hd/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Viju TV1000 HD
-acestream://ae0d6d703ef80198263a1a868740cf059eac4e9e
+
 #EXTINF:-1 group-title="Кинозалы", Viju TV1000
 http://217.25.80.16/TV1000_HD/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Viju TV1000 Русское кино HD
-acestream://af4baf7f76a3057eeea815c90747860e9fec488a
+
 #EXTINF:-1 group-title="Кинозалы", Viju TV1000 Русское кино
 http://217.25.80.16/TV1000_Russkoe_kino/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Viju TV1000 Action HD
-acestream://05a7dd3bf60e16ed1674cb437e1e00084392285e
+
 #EXTINF:-1 group-title="Кинозалы", Viju TV1000 Action
 http://46.8.46.14/actiontv/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Amedia hit HD
-acestream://1b74777f3b2121d067457fc554beb5e1c26b6cd8
+
 #EXTINF:-1 group-title="Кинозалы", Amedia Hit HD
 http://217.25.80.16/Amedia_Hit_HD/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы", Amedia premium HD
-acestream://5988dc4ef60bf2f77939026578ac80771f2938c2
+
 #EXTINF:-1 group-title="Кинозалы", Amedia Premium HD
 http://217.21.34.160:38007/amediapremium/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Amedia 1 HD
-acestream://5b1f4a0fb8abc134de4692179b55e4008f0e5e82
+
 #EXTINF:-1 group-title="Кинозалы", Amedia 1
 http://178.217.72.72/A1/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Amedia 2 HD
-acestream://bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac
+
 #EXTINF:-1 group-title="Кинозалы", Amedia 2
 http://46.8.46.14/A2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Fox
 http://91.194.191.241:8081/chid67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Fox life HD
 http://94.232.127.28:8080/foxlife/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Viju+ comedy HD
-acestream://8c7b8be6682d84e033352724243719378c3e1540
+
 #EXTINF:-1 group-title="Кинозалы", Viju+ comedy HD
 http://zxfjaukj.akciatv.ru/iptv/FHH84H2DHD9F4MDXE49XPW4U/200/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Viju+ premiere HD
-acestream://dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5
+
 #EXTINF:-1 group-title="Кинозалы", Viju+ premiere HD
 http://zxfjaukj.akciatv.ru/iptv/FHH84H2DHD9F4MDXE49XPW4U/202/index.m3u8
 #EXTINF:-1 group-title="Кинозалы", Viju+ serial HD
 http://zxfjaukj.akciatv.ru/iptv/FHH84H2DHD9F4MDXE49XPW4U/2443/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Viasat Kino World
-acestream://f8d38c09a74612b9fabf0206cbd28bc11d6bc27d&.mp4
+
 #EXTINF:-1 group-title="Кинозалы", Viasat Kino World
 http://94.232.127.28:8080/tv1000ru/index.m3u8
-#EXTINF:-1 group-title="Кинозалы", Hollywood HD
-acestream://3cacfef48b11ea2a81282c4b49b3eac4d7cce501
+
 #EXTINF:-1 group-title="Кинозалы", Hollywood HD
 http://217.25.80.16/Hollywood_HD/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы", Hollywood
